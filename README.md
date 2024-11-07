@@ -1,4 +1,4 @@
-# umetna inteligenca
+# Umetna Unteligenca (UI)
 Umetna inteligenca (UI) je ena izmed najhitreje rastočih tehnologij v sodobnem svetu, ki že danes oblikuje številne vidike našega življenja, vključno z načinom dela, ustvarjanjem novih priložnosti, pa tudi z izzivi, ki jih prinaša za zaposlovanje. Sposobnost umetne inteligence, da obdeluje velike količine podatkov, uči se iz njih ter sprejema odločitve brez neposrednega človeškega nadzora, ima potencial za radikalno preoblikovanje številnih industrij in poklicev. Vendar pa je vprašanje, kako bo ta tehnologija vplivala na prihodnost zaposlovanja, kompleksno in polno nasprotujočih si mnenj. V tem besedilu bomo raziskali glavne prednosti in izzive, ki jih umetna inteligenca prinaša na področje zaposlovanja.
 
 ## Prednosti umetne inteligence v povezavi z zaposlovanjem
