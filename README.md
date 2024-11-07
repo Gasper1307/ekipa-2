@@ -9,7 +9,7 @@ Poleg tega umetna inteligenca omogoča razvoj novih industrij in poslovnih model
 
 Poleg tega umetna inteligenca ustvarja nove priložnosti za delo na področjih, kot so razvoj programske opreme, podatkovna znanost, analiza podatkov, kibernetska varnost in mnoge druge tehnične in raziskovalne discipline. To pomeni, da bodo potrebni strokovnjaki, ki bodo obvladali te tehnologije in jih znali pravilno uporabljati.
 
-**Izzivi umetne inteligence na področju zaposlovanja**
+** Izzivi umetne inteligence na področju zaposlovanja **
 
 Kljub prednostim umetne inteligence pa se pojavljajo tudi številni izzivi, predvsem v zvezi z izgubo delovnih mest. Ena izmed največjih skrbi je, da bo umetna inteligenca nadomestila številne poklice, zlasti tiste, ki vključujejo rutinsko, ponavljajoče se naloge. To so na primer poklici v skladiščih, transportu, proizvodnji in nekaterih administrativnih delih. Čeprav avtomatizacija povečuje produktivnost, lahko to vodi v zmanjšanje potrebnega števila delavcev, kar povzroča negotovost na trgu dela.
 
