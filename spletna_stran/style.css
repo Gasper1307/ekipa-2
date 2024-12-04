@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color:  black;
+    font-size: 25px;
+}
+
+header {
+    
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 20px 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.AI{
+    text-align: center;
+    padding: 350px 20px;
+    position: relative;
+}
+
+.AI h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.AI .besedilo {
+    font-style: italic;
+    font-size: 19px;
+    margin-bottom: 10px;
+}
+
+.AI .ime {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* dark mode */
+:root {
+    --base-color: white;
+    --base-variant: #e8e9ed;
+    --text-color: #111528;
+    --secondary-text: #232738;
+    --primary-color: #3a435d;
+    --accent-color: #0071ff;
+    --list-color: #333333;
+}
+
+.darkmode {
+    --base-color: #070b1d;
+    --base-variant: #101425;
+    --text-color: #ffffff;
+    --secondary-text: #a4a5b8;
+    --primary-color: #3a435d;
+    --accent-color: #0071ff;
+    --list-color: #bbbbbb;
+}
+
+body {
+    background-color: var(--base-color);
+    color: var(--text-color);
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+#tema {
+    height: 50px;
+    width: 50px;
+    padding: 0;
+    border-radius: 50%;
+    background-color: var(--base-variant);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+}
+#tema svg {
+    fill: var(--primary-color);
+}
+
+#tema svg:last-child {
+    display: none;
+}
+
+.darkmode #tema svg:first-child {
+    display: none;
+}
+
+.darkmode #tema svg:last-child {
+    display: block;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: var(--list-color); 
+    transition: color 0.3s ease; 
+    
+}
+
+nav ul li a:hover {
+    color: var(--accent-color); 
+}
+
+/*datum*/
+#date-display {
+    font-size: 1rem;
+    color: var(--secondary-text);
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: fixed;
+    
+}
+
